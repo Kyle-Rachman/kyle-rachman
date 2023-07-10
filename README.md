@@ -13,10 +13,21 @@ I started my career as a mathematician and professional educator at both the hig
 | CSS | JSON | AWS | |
 |  | RESTful APIs | Jinja2 | |
 
+For more details, see my [Resume](https://drive.google.com/drive/folders/1AxgG3Z9CFmoPQ07PSTPenZwmtkDrCsrq).
+
 ### Active Projects:
 - 🥷 Finishing the MERN stack at Coding Dojo
 - 🧗‍♂️ Creating an app for climbers at my local gym to track their progress (ideation stage)
 
+### Hobbies:
+- 🧗‍♂️ Climbing
+- 📖 Reading
+- 🔥 Spending time with friends
+- 🌟 Stargazing
+
+### Connect with me:
+- Email: [kcrachman@gmail.com](mailto:kcrachman@gmail.com)
+- LinkedIn: [Kyle Rachman](https://www.linkedin.com/in/kyle-rachman/)
 
 
 <!--
