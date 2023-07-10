@@ -24,7 +24,7 @@ For more details, see my [resume](https://drive.google.com/file/d/1v5JLnHJvDhQ-n
 - 📖 Reading
 - 🔥 Spending time with friends
 - 🌟 Stargazing
-- ➕ Doing math!
+- ➕ Doing math
 
 ### Connect with me:
 - Email: [kcrachman@gmail.com](mailto:kcrachman@gmail.com)
