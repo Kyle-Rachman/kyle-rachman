@@ -9,9 +9,9 @@ I started my career as a mathematician and professional educator at both the hig
 |-----------|-----------|----------|----------|
 | Python | AJAX | Flask | MySQL |
 | JavaScript (ES6) | React | jQuery | |
-| HTML | Bootstrap | OOP | |
+| HTML | Bootstrap | Jinja2 | |
 | CSS | JSON | AWS | |
-|  | RESTful APIs | Jinja2 | |
+|  | RESTful APIs | OOP | |
 
 For more details, see my [resume](https://drive.google.com/file/d/1v5JLnHJvDhQ-nVmIipBCJAS4VhVraIcD/view?usp=sharing).
 
