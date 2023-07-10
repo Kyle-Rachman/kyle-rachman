@@ -19,11 +19,12 @@ For more details, see my [resume](https://drive.google.com/file/d/1v5JLnHJvDhQ-n
 - 🥷 Finishing the MERN stack at Coding Dojo
 - 🧗‍♂️ Creating an app for climbers at my local gym to track their progress (ideation stage)
 
-### Hobbies:
+### Non-Work Hobbies:
 - 🧗‍♂️ Climbing
 - 📖 Reading
 - 🔥 Spending time with friends
 - 🌟 Stargazing
+- ➕ Doing math!
 
 ### Connect with me:
 - Email: [kcrachman@gmail.com](mailto:kcrachman@gmail.com)
