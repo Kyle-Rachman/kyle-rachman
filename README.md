@@ -13,7 +13,7 @@ I started my career as a mathematician and professional educator at both the hig
 | CSS | JSON | AWS | |
 |  | RESTful APIs | Jinja2 | |
 
-For more details, see my [resume](https://drive.google.com/drive/folders/1AxgG3Z9CFmoPQ07PSTPenZwmtkDrCsrq).
+For more details, see my [resume](https://drive.google.com/file/d/1v5JLnHJvDhQ-nVmIipBCJAS4VhVraIcD/view?usp=sharing).
 
 ### Active Projects:
 - 🥷 Finishing the MERN stack at Coding Dojo
