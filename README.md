@@ -5,13 +5,13 @@ My name is Kyle Rachman, and I am so excited to "meet" you. I have lived on the 
 
 I started my career as a mathematician and professional educator at both the high school and university levels, but I now seek to use the more technical side of my skillset as a Full Stack Developer. Some of my current skills include:
 
-| Languages | Front End | Back End | Database |
-|-----------|-----------|----------|----------|
-| Python | AJAX | Flask | MySQL |
-| JavaScript (ES6) | React | jQuery | |
-| HTML | Bootstrap | Jinja2 | |
-| CSS | JSON | AWS | |
-|  | RESTful APIs | OOP | |
+| Languages | Front End | Back End | Database | Tools |
+|-----------|-----------|----------|----------|----------|
+| Python | React | Flask | MySQL | Git/Github |
+| JavaScript (ES6) | AJAX | Express | MongoDB (Mongoose) | AWS |
+| HTML | Bootstrap | Jinja2 | | Postman |
+| CSS | jQuery | JSON | | BCrypt |
+|  | RESTful APIs | OOP | | npm |
 
 For more details, see my [resume](https://drive.google.com/file/d/1v5JLnHJvDhQ-nVmIipBCJAS4VhVraIcD/view?usp=sharing).
 
