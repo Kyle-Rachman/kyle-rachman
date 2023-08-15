@@ -14,7 +14,7 @@ I started my career as a mathematician and professional educator at both the hig
 | SQL | RESTful APIs | OOP | | npm |
 | | | | | MS Suite |
 
-For more details, see my [resume](https://drive.google.com/file/d/1v5JLnHJvDhQ-nVmIipBCJAS4VhVraIcD/view?usp=sharing).
+For more details, see my [resume](https://drive.google.com/file/d/1Q98KLwEXkBorhx7KFSl6L0-63JhAwfUd/view?usp=sharing).
 
 ### Active Projects:
 - 🥷 Finishing the MERN stack at Coding Dojo
