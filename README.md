@@ -8,7 +8,7 @@ I started my career as a mathematician and professional educator at both the hig
 | Languages | Front End | Back End | Database | Tools |
 |-----------|-----------|----------|----------|----------|
 | Python | React | Flask | MySQL | Git/Github |
-| JavaScript (ES6) | AJAX | Express | MongoDB (Mongoose) | AWS |
+| JavaScript | AJAX | Express | MongoDB (Mongoose) | AWS |
 | HTML | Bootstrap | Jinja2 | | Postman |
 | CSS | jQuery | JSON | | BCrypt |
 | SQL | RESTful APIs | OOP | | npm |
