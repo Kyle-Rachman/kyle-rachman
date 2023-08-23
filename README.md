@@ -13,6 +13,7 @@ I started my career as a mathematician and professional educator at both the hig
 | CSS | jQuery | JSON | | BCrypt |
 | SQL | RESTful APIs | OOP | | npm |
 | | | | | MS Suite |
+| | | | | Mathematica |
 
 For more details, see my [resume](https://drive.google.com/file/d/1Q98KLwEXkBorhx7KFSl6L0-63JhAwfUd/view?usp=sharing).
 
