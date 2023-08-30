@@ -18,8 +18,8 @@ I started my career as a mathematician and professional educator at both the hig
 For more details, see my [resume](https://drive.google.com/file/d/1Q98KLwEXkBorhx7KFSl6L0-63JhAwfUd/view?usp=sharing).
 
 ### Active Projects:
-- 🥷 Finishing the MERN stack at Coding Dojo
-- 🧗‍♂️ Creating an app for climbers at my local gym to track their progress (ideation stage)
+- 🥷 Finishing the Projects and Algorithms stack at Coding Dojo
+- 🎲 Creating a bingo app for my friends and I at church
 
 ### Non-Work Hobbies:
 - 🧗‍♂️ Climbing
