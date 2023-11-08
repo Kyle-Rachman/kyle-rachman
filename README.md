@@ -8,11 +8,11 @@ I started my career as a mathematician and professional educator at both the hig
 | Languages | Front End | Back End | Database | Tools |
 |-----------|-----------|----------|----------|----------|
 | Python | React | Flask | MySQL | Git/Github |
-| JavaScript | AJAX | Express | MongoDB (Mongoose) | AWS |
-| HTML | Bootstrap | Jinja2 | | Postman |
-| CSS | jQuery | JSON | | BCrypt |
-| SQL | RESTful APIs | OOP | | npm |
-| | | | | MS Suite |
+| TypeScript | Tailwind | Express | MongoDB (Mongoose) | AWS |
+| JavaScript | Bootstrap | Jinja2 | | Postman |
+| HTML | AJAX | JSON | | BCrypt |
+| CSS | jQuery | OOP | | npm |
+| SQL | RESTful APIs | | | MS Suite |
 | | | | | Mathematica |
 
 For more details, see my [resume](https://drive.google.com/file/d/1Q98KLwEXkBorhx7KFSl6L0-63JhAwfUd/view?usp=sharing).
