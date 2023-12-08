@@ -15,11 +15,8 @@ I started my career as a mathematician and professional educator at both the hig
 | SQL | RESTful APIs | OOP | | MS Suite |
 | | | | | Mathematica |
 
-For more details, see my [resume](https://drive.google.com/file/d/1Q98KLwEXkBorhx7KFSl6L0-63JhAwfUd/view?usp=sharing).
-
 ### Active Projects:
-- 🥷 Finishing the Projects and Algorithms stack at Coding Dojo
-- 🎲 Creating a bingo app for my friends and I at church
+- 🚗 Building a car detailing website for Santana Mobile Detail
 
 ### Non-Work Hobbies:
 - 🧗‍♂️ Climbing
