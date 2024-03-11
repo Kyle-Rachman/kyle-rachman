@@ -3,7 +3,7 @@
 ### About Me:
 My name is Kyle Rachman, and I am so excited to "meet" you. I have lived on the beautiful Central Coast of California for the past six years, and I love Jesus, math, coding, and climbing!
 
-I started my career as a mathematician and professional educator at both the high school and university levels, but I now seek to use the more technical side of my skillset as a Full Stack Developer. Some of my current skills include:
+I started my career as a mathematician and professional educator at both the high school and university levels, but I now seek to use the more technical side of my skillset as a Technical Analyst. Some of my current skills include:
 
 | Languages | Front End | Back End | Database | Tools |
 |-----------|-----------|----------|----------|----------|
@@ -14,9 +14,6 @@ I started my career as a mathematician and professional educator at both the hig
 | CSS | jQuery | JSON | | npm |
 | SQL | RESTful APIs | OOP | | MS Suite |
 | | | | | Mathematica |
-
-### Active Projects:
-- 🚗 Building a car detailing website for Santana Mobile Detail
 
 ### Non-Work Hobbies:
 - 🧗‍♂️ Climbing
